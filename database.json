@@ -1,0 +1,18 @@
+{
+ "probot": "282859044593598464",
+ "receipient": "1101271244432748685",
+ "admins": [
+  "889994885212553257"
+ ],
+ "projects": 1,
+ "stock_data": [
+  {
+   "id": 2,
+   "name": "بيع بروجيكتات",
+   "desc": "تست",
+   "emoji": "",
+   "price": "1",
+   "link": "https://replit.com/@imadmrabtini/ffgfdgfdgfhfghfhfghfghgfhgf"
+  }
+ ]
+}
